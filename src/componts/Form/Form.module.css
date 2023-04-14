@@ -1,0 +1,17 @@
+.container1{
+    width: 500px;
+    
+    border: solid 1px black;
+    margin: 100px 40px;
+    border-radius: 5%;
+
+}
+
+.input_container{
+    max-width: 200px;
+    margin: 20px 150px;    
+}
+
+.input_container p{
+    color: red;
+}
